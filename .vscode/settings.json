@@ -2,6 +2,17 @@
     "files.associations": {
         "type_traits": "cpp",
         "iostream": "cpp",
-        "*.tcc": "cpp"
-    }
+        "*.tcc": "cpp",
+        "__hash_table": "cpp",
+        "__tuple": "cpp",
+        "array": "cpp",
+        "limits": "cpp",
+        "ratio": "cpp",
+        "tuple": "cpp",
+        "variant": "cpp",
+        "chrono": "cpp",
+        "compare": "cpp",
+        "cstddef": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
